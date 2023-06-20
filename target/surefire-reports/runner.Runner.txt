@@ -1,0 +1,37 @@
+-------------------------------------------------------------------------------
+Test set: runner.Runner
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 11, Skipped: 0, Time elapsed: 2.342 s <<< FAILURE! - in runner.Runner
+Customer Contact Number Modification functionality.Verify Customer Contact Number Modification functionality  Time elapsed: 0.657 s  <<< ERROR!
+java.lang.NullPointerException
+
+Customer Contact Number Modification functionality.Verify Customer Contact Number Modification functionality  Time elapsed: 0.018 s  <<< ERROR!
+java.lang.NullPointerException
+
+Verify Customer Login functionality.Verify Customer Login functionality negative Testing  Time elapsed: 0.012 s  <<< ERROR!
+java.lang.NullPointerException
+
+Verify Customer Login functionality.Verify Customer Login functionality negative Testing  Time elapsed: 0.015 s  <<< ERROR!
+java.lang.NullPointerException
+
+Verify Customer Login functionality.Verify Customer Login functionality negative Testing  Time elapsed: 0.016 s  <<< ERROR!
+java.lang.NullPointerException
+
+Verify Customer Login functionality.Verify Customer Login functionality negative Testing  Time elapsed: 0.003 s  <<< ERROR!
+java.lang.NullPointerException
+
+Verify Customer Login functionality.Verify Customer Login functionality negative Testing  Time elapsed: 0.01 s  <<< ERROR!
+java.lang.NullPointerException
+
+Verify Customer Login functionality.Verify Customer Login functionality negative Testing  Time elapsed: 0.009 s  <<< ERROR!
+java.lang.NullPointerException
+
+Verify Customer Login functionality.Verify Customer Login functionality negative Testing  Time elapsed: 0.007 s  <<< ERROR!
+java.lang.NullPointerException
+
+Verify Customer Login functionality.Verify Customer Login functionality negative Testing  Time elapsed: 0.009 s  <<< ERROR!
+java.lang.NullPointerException
+
+Verify Customer Login functionality.Verify Customer Login functionality happy path  Time elapsed: 0.01 s  <<< ERROR!
+java.lang.NullPointerException
+
